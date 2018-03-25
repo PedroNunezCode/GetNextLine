@@ -7,6 +7,6 @@
 #include "libft/libft.h"
 #define LINE '\n'
 
-int     ft_get_next_line(const int ft, char **line);
+int    ft_get_next_line(const int ft, char **line);
 
 #endif
